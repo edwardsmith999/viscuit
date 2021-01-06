@@ -1,0 +1,10 @@
+# viscuit
+
+A code which reads in a time trajectory from MD and calculates the viscuit, developed in various papers
+
+Heyes DM, Dini D, Smith ER, 2020, Statistical analysis and molecular dynamics simulations of the thermal conductivity of lennard–Jones solids including their pressure and temperature dependencies, Physica Status Solidi B: Basic Solid State Physics, Vol: 257, Pages: 1-14, ISSN: 0370-1972
+
+Heyes DM, Dini D, Smith ER, 2020, Single trajectory transport coefficients and the energy landscape by molecular dynamics simulations, JOURNAL OF CHEMICAL PHYSICS, Vol: 152, ISSN: 0021-9606
+
+Heyes D, Smith ER, Dini D, 2019, Shear stress relaxation and diffusion in simple liquids by molecular dynamics simulations: Analytic expressions and paths to viscosity, The Journal of Chemical Physics, Vol: 150, ISSN: 0021-9606 
+
